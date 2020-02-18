@@ -124,8 +124,13 @@ This assignnment is more involved than the first two, but uses the same basic mi
 
 ## Screensavers
 
-_TODO: Add your screensaver descriptions!!!_
+1. The 1st screensaver plots leds in a spiral formation and then unplots them backwards.
+2. The 2nd screensaver plots a square dice and then plots a 5 on it. It unplots afterwards
+3. The 3rd screensaver plots the entire screen in a wave formation and unplots respectively.
+4. The 4th screensaver animates a snake on its track to eat food. The snake grows larger and becomes brighter with each piece it eats.
+5. The 5th screensaver is an animation of turtle eggs circling to eventually form a fully grown turtle.
 
 ## Demo video
 
-_TODO: Add your video URL here!!!_
+Here is the video of my [Screensavers](https://imgur.com/a/LdxwKdB) working on my micro bit.
+
